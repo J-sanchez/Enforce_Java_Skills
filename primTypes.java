@@ -60,7 +60,7 @@ public class primTypes {
     System.out.println("-----------Min to Max Short value range (" + myMinShortValue + " to " + myMaxShortValue + ")");
         
 
-    //Long
+    //Long  Have to include suffix L on actual value
     System.out.println("------------This is the size of a long: " + myLongSize);
     System.out.println("-------------This is the Short min value: " + myLongMin);
 

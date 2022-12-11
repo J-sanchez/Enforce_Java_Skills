@@ -20,7 +20,7 @@ public class floatPrecision {
 
 
         //Challenge
-        System.out.println("Converted Kilograms: " + (numberOfPounds * conversionKilo));
+        System.out.println("Challenge Convert Pounds to Kilograms: " + (numberOfPounds * conversionKilo));
         System.out.println("Look at using underscores to write number: " + newNumber + "\n" + "check dividing by conversion factor: " + (newNumber / conversionKilo));
     }
 }

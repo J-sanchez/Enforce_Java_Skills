@@ -1,0 +1,28 @@
+byte 
+short
+int 
+long
+char
+
+Whole Number 
+byte 
+short
+int 
+long
+
+Real Number
+Float
+Double
+
+Single Character
+Char
+
+Boolean Value 
+Boolean
+
+Java's prim types: boolean, byte
+
+Java's built in classes; (Wrappers) BigDecimal String
+
+String is a class that contains a sequence of characters
+

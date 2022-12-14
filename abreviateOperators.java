@@ -27,6 +27,8 @@ public class abreviateOperators {
 }
 /*
  * We can use shorthand -= or += to add and subtract. Compound assignments
+ * ++
+ * --
  * -=
  * +=
  * *=

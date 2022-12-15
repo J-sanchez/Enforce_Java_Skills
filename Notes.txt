@@ -1,0 +1,29 @@
+
+Whole Number 
+byte 
+short
+int 
+long
+
+Real Number
+Float
+Double
+
+Single Character
+Char
+
+Boolean Value 
+Boolean
+
+Java's prim types: boolean, byte
+
+Java's built in classes; (Wrappers) BigDecimal String
+
+String is a class that contains a sequence of characters
+
+Identifier         Usage             Recommended           Example 
+Projects Name    IntelliJ Field     Upper Camel Case       FirstJavaProject
+Class Name       Java Element       Upper Camel Case       NewClass
+Method Name      Java Element       Lower Camel Case       getData
+Variable Name    Java Element       Lower Camel Case       firstVariable
+
